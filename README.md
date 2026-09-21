@@ -6,12 +6,12 @@ Each notebook includes saved code outputs and visualizations. The videos explain
 
 ## Notebooks and Video Explanations
 
-| No. | Topic                                            | Executed Colab Notebook                                                                                           | Video Explanation                           |
-| --: | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-|  01 | Python Introduction                              | [](colabs/01_python_intro.ipynb)                                                                                  | [YouTube Video](https://youtu.be/gQ2MbsbmLD0) |
-|  02 | NumPy Introduction                               | [](colabs/02_numpy_intro.ipynb)                                                                                   | [YouTube Video](https://youtu.be/n8Utte5CLvk) |
-|  03 | Pandas Introduction                              | [](colabs/03_pandas_intro.ipynb)                                                                                  | [YouTube Video](https://youtu.be/a4ks6n6mBvg) |
-|  04 | Matplotlib Introduction                          | [](colabs/04_matplotlib_intro.ipynb)                                                                              | [YouTube Video](https://youtu.be/CHavzPuyRss) |
+| No. | Topic                                            | Executed Colab Notebook                                                                                           | Video Explanation                             |
+| --: | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+|  01 | Python Introduction                              | [01_python_intro.ipynb](colabs/01_python_intro.ipynb)                                                             | [YouTube Video](https://youtu.be/gQ2MbsbmLD0) |
+|  02 | NumPy Introduction                               | [02_numpy_intro.ipynb](colabs/02_numpy_intro.ipynb)                                                               | [YouTube Video](https://youtu.be/n8Utte5CLvk) |
+|  03 | Pandas Introduction                              | [03_pandas_intro.ipynb](colabs/03_pandas_intro.ipynb)                                                             | [YouTube Video](https://youtu.be/a4ks6n6mBvg) |
+|  04 | Matplotlib Introduction                          | [04_matplotlib_intro.ipynb](colabs/04_matplotlib_intro.ipynb)                                                     | [YouTube Video](https://youtu.be/CHavzPuyRss) |
 |  05 | Basic Linear Algebra 1                           | [05_basic_linear_algebra_1.ipynb](colabs/05_basic_linear_algebra_1.ipynb)                                         | [YouTube Video](https://youtu.be/Iu_tb2dqqrY) |
 |  06 | Basic Linear Algebra 2                           | [06_basic_linear_algebra_2.ipynb](colabs/06_basic_linear_algebra_2.ipynb)                                         | [YouTube Video](https://youtu.be/bOusRjUQXx0) |
 |  07 | Basic Linear Algebra 3                           | [07_basic_linear_algebra_3.ipynb](colabs/07_basic_linear_algebra_3.ipynb)                                         | [YouTube Video](https://youtu.be/fzonBuEMnLs) |
